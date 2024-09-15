@@ -1,12 +1,19 @@
-## Hi there 👋
+# PouwerTronics
 
-<!--
+We are an innovative company specializing in technological solutions and electronics. Our mission is to provide high-quality electronics that meet our customers' needs while focusing on sustainability and innovation.
 
-**Here are some ideas to get you started:**
+## Services
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Custom electronic solutions development
+- Electronics consultancy
+- Technical support
+
+## Contact
+
+Have questions or need more information? Fill out our [contact form](https://pouwertronics.nl/contact) and we’ll get back to you soon.
+
+## Disclaimer
+
+For more information, check our [terms and conditions](https://pouwertronics.nl).
+
+© 2020-2021 PouwerTronics. All rights reserved.
