@@ -4,3 +4,4 @@ We are an innovative company specializing in technological solutions and electro
 - Electronics consultancy
 - Technical support
 - Software development
+- 3D Cad modeling
