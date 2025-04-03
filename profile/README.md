@@ -1,7 +1,10 @@
-We are an innovative company specializing in technological solutions and electronics. Our mission is to provide high-quality electronics that meet our customers' needs while focusing on sustainability and innovation.
+## About Us
 
-- Custom electronic solutions development
-- Electronics consultancy
-- Technical support
-- Software development
-- 3D Cad modeling
+We are an innovative company specializing in technological solutions and electronics. Our mission is to deliver high-quality electronics that meet our customers' needs, with a strong focus on sustainability and innovation.
+
+### Our Services:
+- **Custom Electronic Solutions Development**
+- **Electronics Consultancy**
+- **Technical Support**
+- **Software Development**
+- **3D CAD Modeling**
